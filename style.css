@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    flex-direction: column;    
+}
+
+.header1 {
+    display: flex;    
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    text-decoration: 0;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+
+}
